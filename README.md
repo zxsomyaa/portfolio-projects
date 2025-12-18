@@ -38,8 +38,6 @@ I have worked with multiple databases and structured datasets, performing data c
 - Data preprocessing, transformation, and validation
 - Insight generation using statistical and analytical techniques
 
-Tools & Technologies:
-Python | SQL | Pandas | NumPy | Data Visualization
 ---
 
 ## 🚧 Upcoming Projects
