@@ -1,12 +1,6 @@
 # Portfolio Projects
 This repository serves as a central portfolio supporting my resume, showcasing the academic, technical, and real-world projects I have completed across data analytics, machine learning, and software development.
 
-## 📂 Project Categories
-- Data Analytics & Visualization
-- Machine Learning & AI
-- Software & Web Development
-- Academic Coursework Projects
-
 ## 🛠 Tech Stack
 Python | SQL | Pandas | NumPy | Machine Learning | Git | APIs
 
