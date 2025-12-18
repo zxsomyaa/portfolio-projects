@@ -40,7 +40,7 @@ I have worked with multiple databases and structured datasets, performing data c
 
 **Tools & Technologies:**  
 Python | SQL | Pandas | NumPy | Data Visualization
-⸻
+---
 
 ## 🚧 Upcoming Projects
 
