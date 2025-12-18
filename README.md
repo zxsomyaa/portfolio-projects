@@ -46,11 +46,11 @@ Python | SQL | Pandas | NumPy | Data Visualization
 ## 🚧 Upcoming Projects
 
 The following projects are currently under development and will be added to this portfolio upon completion:
-	•	Trip & Event Management Full-Stack Application
+	-	Trip & Event Management Full-Stack Application
 A full-stack web application for trip planning and event management, featuring user authentication, database integration, and dynamic front-end interactions.
-	•	DJ Application
+	-	DJ Application
 An interactive audio-based application focusing on real-time sound control, mixing, and transitions.
-	•	Image Processing Applications
+	-	Image Processing Applications
 A set of projects exploring image manipulation and computer vision concepts, including:
 	•	Image filtering and visual effects
 	•	Face detection and facial movement tracking
