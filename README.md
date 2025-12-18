@@ -4,9 +4,6 @@ This repository serves as a central portfolio supporting my resume, showcasing t
 ## 🛠 Tech Stack
 Python | SQL | Pandas | NumPy | Machine Learning | Git | APIs
 
-## 📌 Notes
-Each project folder includes its own documentation, source code, and instructions to run.
-
 ## 🚀 Featured Projects
 
 ### 🖌️ Drawing Board Application
