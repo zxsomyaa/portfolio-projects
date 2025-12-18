@@ -28,7 +28,7 @@ An interactive game developed using p5.js featuring sound integration, real-time
 - 🌐 Live Demo: https://zxsomyaa.github.io/Game-development-/
 - 📁 Repository: https://github.com/zxsomyaa/Game-development-
 
-## 📊 Database & Data Analysis Experience
+### 📊 Database & Data Analysis Experience
 
 I have worked with multiple databases and structured datasets, performing data cleaning, feature analysis, and exploratory data analysis to extract meaningful insights. My work focuses on identifying patterns, relationships, and trends to support academic and applied problem-solving.
 
@@ -43,7 +43,7 @@ Python | SQL | Pandas | NumPy | Data Visualization
 
 ⸻
 
-🚧 Upcoming Projects
+## 🚧 Upcoming Projects
 
 The following projects are currently under development and will be added to this portfolio upon completion:
 	•	Trip & Event Management Full-Stack Application
