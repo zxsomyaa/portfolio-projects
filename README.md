@@ -25,7 +25,7 @@ A physics-based snooker table simulation developed as part of a graphics program
 
 ---
 
-### 🎮 Game Development / Image Processing Application
+### 🎮 Game Development
 An interactive game developed using p5.js featuring sound integration, real-time animation, and user interaction.
 - 🔧 Technologies: JavaScript, p5.js, p5.sound
 - 🌐 Live Demo: https://zxsomyaa.github.io/Game-development-/
