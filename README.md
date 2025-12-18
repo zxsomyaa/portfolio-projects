@@ -28,6 +28,34 @@ An interactive game developed using p5.js featuring sound integration, real-time
 - 🌐 Live Demo: https://zxsomyaa.github.io/Game-development-/
 - 📁 Repository: https://github.com/zxsomyaa/Game-development-
 
+## 📊 Database & Data Analysis Experience
+
+I have worked with multiple databases and structured datasets, performing data cleaning, feature analysis, and exploratory data analysis to extract meaningful insights. My work focuses on identifying patterns, relationships, and trends to support academic and applied problem-solving.
+
+Areas of experience include:
+	•	Analysis of healthcare datasets, including heart disease causes in relation to age
+	•	Feature exploration and comparison across multiple datasets
+	•	Data preprocessing, transformation, and validation
+	•	Insight generation using statistical and analytical techniques
+
+Tools & Technologies:
+Python | SQL | Pandas | NumPy | Data Visualization
+
+⸻
+
+🚧 Upcoming Projects
+
+The following projects are currently under development and will be added to this portfolio upon completion:
+	•	Trip & Event Management Full-Stack Application
+A full-stack web application for trip planning and event management, featuring user authentication, database integration, and dynamic front-end interactions.
+	•	DJ Application
+An interactive audio-based application focusing on real-time sound control, mixing, and transitions.
+	•	Image Processing Applications
+A set of projects exploring image manipulation and computer vision concepts, including:
+	•	Image filtering and visual effects
+	•	Face detection and facial movement tracking
+	•	A face-movement controlled interactive game
+
 ## 📫 Contact
 GitHub: https://github.com/zxsomyaa  
 LinkedIn: https://www.linkedin.com/in/somya-mehta-53973a280/
