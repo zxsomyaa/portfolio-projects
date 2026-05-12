@@ -44,8 +44,8 @@ I have worked with multiple databases and structured datasets, performing data c
 
 The following projects are currently under development and will be added to this portfolio upon completion:
 
-- ** AI Multi-Model Mental Health & Wellbeing Application (Final Year Project)**
-    An AI-powered mental health and wellbeing platform that integrates multiple AI models to provide personalized emotional support,     mood tracking, health recommendations, and conversational assistance through an interactive user experience.
+- **AI Multi-Model Mental Health & Wellbeing Application (Final Year Project)**
+    An AI-powered mental health and wellbeing platform that integrates multiple AI models to provide personalized emotional support,        mood tracking, health recommendations, and conversational assistance through an interactive user experience.
 
 - **Image Processing Applications**
   - Image filtering and visual effects
