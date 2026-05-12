@@ -47,9 +47,6 @@ The following projects are currently under development and will be added to this
 - **Trip & Event Management Full-Stack Application**  
   A full-stack web application for trip planning and event management, featuring user authentication, database integration, and dynamic front-end interactions.
 
-- **DJ Application**  
-  An interactive audio-based application focusing on real-time sound control, mixing, and transitions.
-
 - **Image Processing Applications**
   - Image filtering and visual effects
   - Face detection and facial movement tracking
